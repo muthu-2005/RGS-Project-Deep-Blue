@@ -21,7 +21,7 @@ Automated grain inspection solution to reduce grain loss caused due to molds and
 
 
 ## Output
-![Screenshot 2024-06-29 174709](https://github.com/muthu-2005/RGS-Deep-Blue-Project/assets/139162239/5698a744-cce9-4b67-a427-34b5c0a6890f)
+![Screenshot 2024-06-29 174709](https://github.com/muthu-2005/RGS_Project_Deep_Blue/assets/139162239/b3209fca-1530-4dca-9cad-2e3298afb8d9)
 
 
 #### Link
