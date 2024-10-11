@@ -29,3 +29,5 @@ Automated grain inspection solution to reduce grain loss caused due to molds and
 
 #### Link
 https://reducegrainloss.netlify.app/
+#### Project Development Completion Certificate 
+![1720250025308](https://github.com/user-attachments/assets/e17cfcd9-3d50-40b1-a5c2-0c7f6cd3f4e3)
